@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5973311767",
+    "project_id": "pharmashots-c9128",
+    "storage_bucket": "pharmashots-c9128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5973311767:android:bb080880e2329b451df752",
+        "android_client_info": {
+          "package_name": "com.pharmashots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5973311767-grm95d9t2m7jo6urqomb6l1l58gnp18n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pharmashots",
+            "certificate_hash": "45ecd7b7ceadfe4bdbc36b65baeb9d0f9b6c12c1"
+          }
+        },
+        {
+          "client_id": "5973311767-8l2v5j6jnjnvc5d69ti5kfa0m75lb06v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39Xr2797y_0cdsuNT757IjIJKGcMchLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5973311767-8l2v5j6jnjnvc5d69ti5kfa0m75lb06v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
