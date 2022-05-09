@@ -9,20 +9,20 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.11/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.13.1/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound-8.3.9/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.4+5/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/otp_autofill-2.1.0/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-3.0.4/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.10/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.14/android" />
-            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.2/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.11/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.13.1/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound-8.3.9/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.4+11/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/otp_autofill-2.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.12/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-9.0.2+1/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-3.1.0/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.11/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.15/android" />
+            <option value="$PROJECT_DIR$/../../../Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.3/android" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
           </set>
