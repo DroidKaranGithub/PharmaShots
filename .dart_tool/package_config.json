@@ -224,24 +224,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "google_sign_in",
-      "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
-      "name": "google_sign_in_platform_interface",
-      "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "google_sign_in_web",
-      "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+5",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "html",
       "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0",
       "packageUri": "lib/",
@@ -460,12 +442,6 @@
     {
       "name": "provider",
       "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "quiver",
-      "rootUri": "file:///Users/ms-02/Documents/Kiran/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-3.0.1+1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -728,7 +704,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-04-17T11:40:18.856052Z",
+  "generated": "2022-05-09T15:19:21.102199Z",
   "generator": "pub",
-  "generatorVersion": "2.16.1"
+  "generatorVersion": "2.16.2"
 }

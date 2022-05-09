@@ -7,18 +7,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:5973311767:android:bb080880e2329b451df752",
+        "mobilesdk_app_id": "1:5973311767:android:a367e2d6af7aa5461df752",
         "android_client_info": {
-          "package_name": "com.pharmashots"
+          "package_name": "com.pharmashotsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "5973311767-grm95d9t2m7jo6urqomb6l1l58gnp18n.apps.googleusercontent.com",
+          "client_id": "5973311767-4j8nh1nb9c1bdfglmtim5vk3oln78s7d.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.pharmashots",
-            "certificate_hash": "45ecd7b7ceadfe4bdbc36b65baeb9d0f9b6c12c1"
+            "package_name": "com.pharmashotsapp",
+            "certificate_hash": "6352db4a2968b192cff7f35ef697b8a3d4c5be6a"
           }
         },
         {
@@ -37,6 +37,13 @@
             {
               "client_id": "5973311767-8l2v5j6jnjnvc5d69ti5kfa0m75lb06v.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "5973311767-h7mp1u4e266psh6fd1aqcsaig2nrrchi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pharmashots.mini"
+              }
             }
           ]
         }
